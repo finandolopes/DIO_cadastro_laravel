@@ -1,0 +1,14 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo img{
+    width: 60px !important;
+}
+
+.logo {
+    width: 100%;
+    padding: 10px;
+    background-color: #282826;
+}
